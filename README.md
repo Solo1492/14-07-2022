@@ -1,2 +1,2 @@
-# 14-07-2022
+# To Learn and understand
 Start out in Coding
